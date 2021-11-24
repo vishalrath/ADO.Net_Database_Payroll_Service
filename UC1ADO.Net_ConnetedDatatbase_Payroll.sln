@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC1ADO.Net_ConnetedDatatbase_Payroll", "UC1ADO.Net_ConnetedDatatbase_Payroll\UC1ADO.Net_ConnetedDatatbase_Payroll.csproj", "{ADFE9600-7A0A-4948-991F-CBFE685C2744}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADFE9600-7A0A-4948-991F-CBFE685C2744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADFE9600-7A0A-4948-991F-CBFE685C2744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADFE9600-7A0A-4948-991F-CBFE685C2744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADFE9600-7A0A-4948-991F-CBFE685C2744}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28EC1B88-613C-4D19-9507-DF47D815081C}
+	EndGlobalSection
+EndGlobal
